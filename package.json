@@ -1,12 +1,12 @@
 {
-  "name": "zrapi",
-  "version": "0.0.7",
+  "name": "imran-photo-api",
+  "version": "0.0.8",
   "description": "api module",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rizqi a.k.a ZefianAlfian",
+  "author": "Mohammad Imran",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
@@ -24,10 +24,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZefianAlfian/z-rapi-module.git"
+    "url": "git+https://github.com/MR-IMRAN-60/imran-photo-api.git"
   },
   "bugs": {
-    "url": "https://github.com/ZefianAlfian/z-rapi-module/issues"
+    "url": "https://github.com/MR-IMRAN-60/imran-photo-api/issues"
   },
-  "homepage": "https://github.com/ZefianAlfian/z-rapi-module#readme"
+  "homepage": "https://github.com/MR-IMRAN-60/imran-photo-api#readme"
 }
